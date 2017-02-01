@@ -1,2 +1,2 @@
-FROM msopenstack/sentinel-ubuntu:latest
+FROM msopenstack/sentinel-ubuntu_trusty:latest
 RUN echo "Hello World"
